@@ -4,6 +4,7 @@ I'm interested at:
 - HPC, Operator Optimization for Specific Architectures
 - FPGA, Mixed Signal Processing, HLS (High-Level Synthesis)
 - Precision measurement (voltage and frequency)
+  
 Can deal with a little:
 - Bidirectional actuator control (Motor, TEC)
 - Android Jetpack Compose
